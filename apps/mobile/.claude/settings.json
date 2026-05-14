@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/thomashenderson/Desktop/projects/spineai/**)",
+      "Bash(awk '{print $NF}')"
+    ],
+    "additionalDirectories": [
+      "/Users/thomashenderson/Desktop/projects/spineai"
+    ]
+  }
+}
